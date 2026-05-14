@@ -148,21 +148,6 @@ Through this project, I gained hands-on experience with:
 
 This project helped me better understand that secure e-commerce is not just about making a website look professional. It also requires protecting accounts, securing data in transit, using trusted payment workflows, and documenting how information moves through the system.
 
-## Future Improvements
-
-Future improvements could include:
-
-- Adding screenshots of the original website
-- Adding screenshots of the security settings used
-- Adding a written threat model for the website
-- Adding a vulnerability assessment report
-- Adding results from security header testing
-- Adding results from SSL/TLS testing
-- Adding a privacy and data handling policy
-- Improving documentation around payment workflow security
-- Creating a more detailed architecture diagram
-- Adding a risk assessment table for common e-commerce threats
-
 ## Disclaimer
 
 This project was created for educational purposes as part of a Secure E-Commerce course. The website was a mock e-commerce project designed to demonstrate secure website planning, account protection, SSL/TLS usage, and secure payment gateway concepts.
